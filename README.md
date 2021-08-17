@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Bart, also known as Deluze. I live in The Netherlands and I am 22 years old.
+
+In my free time I like to reverse engineer game network protocols.
+
+#### You can contact me on:
+
+Discord: Deluze#0001
+
+[Twitter](https://twitter.com/Deluzeee)
+
 <!--
 **Deluze/deluze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
