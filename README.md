@@ -5,7 +5,7 @@ I'm Bart, also known as Deluze.
 In my free time I like to reverse engineer game network protocols.
 
 Discord: Deluze#0001\
-Twitter: [Deluzeee](https://twitter.com/Deluzeee)
+Twitter: [Deluzeee](https://twitter.com/Deluzeee)\
 Youtube: [Deluze](https://www.youtube.com/channel/UCpCdF7gxwsxikvYrqZNehPA)
 
 ## Projects
