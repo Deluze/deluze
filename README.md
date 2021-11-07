@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Bart, also known as Deluze.
+### 👇
 
 In my free time I like to reverse engineer game network protocols.
 
