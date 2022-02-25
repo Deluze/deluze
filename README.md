@@ -13,7 +13,7 @@ I'm 22 years old, born & raised in The Netherlands, currently residing in German
 
 ### Contact
 
-If you want to get to know me or have a talk, please hit me up on Discord @ Deluze#0001
+Want to talk? please hit me up on Discord @ Deluze#0001
 
 ## Projects
 
