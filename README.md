@@ -1,12 +1,17 @@
-### 👇
+👋 👋 👋
 
-In my free time I like to reverse engineer game network protocols.
+## About Me
 
-Discord: Deluze#0001
+Software Engineer, passionate about both front & back-end technologies, focused on writing performant and readable code 💪
+
+The languages that I love the most are:
+  - C/C++
+  - JavaScript/TypeScript
+  - PHP
+
+I'm 22 years old, born & raised in The Netherlands, currently residing in Germany.
 
 ## Projects
 
-#### [QPang Essence Emulator (Server Emulator)](https://github.com/Deluze/qpang-essence-emulator):
-A [QPang/MangaFigher](https://en.wikipedia.org/wiki/Manga_Fighter) server emulator written in C++. This project was my first ever project and was made for educational purposes to learn about the x86 assembly language, C++, network protocols and reverse engineering. This server emulator has been used in Project Essence / QPang.io which had thousands of active players and handled hundreds of concurrent players.
-
-#### More to come.
+### [QPang Essence Emulator (Server Emulator)](https://github.com/Deluze/qpang-essence-emulator):
+A [QPang (MangaFighter)](https://en.wikipedia.org/wiki/Manga_Fighter) server emulator written in C++. The emulator has been built from the ground up by reverse engineering the game client. This was a hobby project for learning about C++, reverse engineering and networking.
