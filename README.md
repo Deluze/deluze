@@ -5,7 +5,7 @@
 I'm a Software Engineer that is passionate about both front & back-end technologies, while being focused on writing performant and readable code 💪
 
 The languages that I love the most are:
-  - C++ & C
+  - C++
   - JavaScript & TypeScript
   - PHP
 
