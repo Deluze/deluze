@@ -9,7 +9,7 @@ The languages that I love the most are:
   - JavaScript/TypeScript
   - PHP
 
-I'm 22 years old, born & raised in The Netherlands, currently residing in Germany.
+I'm 22 years old, born in The Netherlands and currently residing in Germany.
 
 ### Contact
 
