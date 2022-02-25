@@ -1,8 +1,8 @@
-👋 👋 👋
+## Hello there 👋
 
-## About Me
+**Some 📓's about me:**
 
-Software Engineer, passionate about both front & back-end technologies, focused on writing performant and readable code 💪
+I'm a Software Engineer that is passionate about both front & back-end technologies while being focused on writing performant and readable code 💪
 
 The languages that I love the most are:
   - C/C++
