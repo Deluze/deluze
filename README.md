@@ -5,8 +5,8 @@
 I'm a Software Engineer that is passionate about both front & back-end technologies, while being focused on writing performant and readable code 💪
 
 The languages that I love the most are:
-  - C/C++
-  - JavaScript/TypeScript
+  - C++ & C
+  - JavaScript & TypeScript
   - PHP
 
 I'm 22 years old, born in The Netherlands and currently residing in Germany.
