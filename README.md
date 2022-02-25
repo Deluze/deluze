@@ -11,6 +11,10 @@ The languages that I love the most are:
 
 I'm 22 years old, born & raised in The Netherlands, currently residing in Germany.
 
+### Contact
+
+If you want to get to know me or have a talk, please hit me up on Discord @ Deluze#0001
+
 ## Projects
 
 ### [QPang Essence Emulator (Server Emulator)](https://github.com/Deluze/qpang-essence-emulator):
