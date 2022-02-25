@@ -11,11 +11,11 @@ The languages that I love the most are:
 
 I'm 22 years old, born in The Netherlands and currently residing in Germany.
 
-### Contact
-
-Want to talk? please hit me up on Discord @ Deluze#0001
-
 ## Projects
 
 ### [QPang Essence Emulator (Server Emulator)](https://github.com/Deluze/qpang-essence-emulator):
 A [QPang (MangaFighter)](https://en.wikipedia.org/wiki/Manga_Fighter) server emulator written in C++. The emulator has been built from the ground up by reverse engineering the game client. This was a hobby project for learning about C++, reverse engineering and networking.
+
+## Contact
+
+Want to talk? Feel free to add me on Discord @ Deluze#0001
