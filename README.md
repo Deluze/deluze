@@ -2,7 +2,7 @@
 
 **Some 📓's about me:**
 
-I'm a Software Engineer who is passionate about both front & back-end technologies, while staying focused on writing performant and readable code 💪
+I'm a Software Engineer who is passionate about both front & back-end technologies while staying focused on writing performant and readable code 💪
 
 The languages that I'm the most comfortable with are:
   - C++
