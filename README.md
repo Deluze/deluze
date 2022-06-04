@@ -9,7 +9,7 @@ The languages that I'm the most comfortable with are:
   - JavaScript & TypeScript
   - PHP
 
-I'm 22 years old, born in The Netherlands 🇳🇱 and currently residing in Germany 🇩🇪.
+I'm 23 years old, born in The Netherlands 🇳🇱 and currently residing in Germany 🇩🇪.
 
 ## Projects
 
