@@ -2,7 +2,7 @@
 
 I'm a Software Engineer who is passionate about both front & back-end technologies 💪
 
-The languages that I'm the most comfortable with are:
+The languages I use on a daily basis are:
   - C++
   - JavaScript & TypeScript
   - PHP
