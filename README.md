@@ -1,14 +1,3 @@
-## Hello there 👋
-
-I'm a Software Engineer who is passionate about both front & back-end technologies 💪
-
-The languages I use on a daily basis are:
-  - C++
-  - JavaScript & TypeScript
-  - PHP
-
-I'm 23 years old, born in The Netherlands 🇳🇱 and currently residing in Germany 🇩🇪.
-
 ## Projects
 
 ### [QPang Essence Emulator (Server Emulator)](https://github.com/Deluze/qpang-essence-emulator):
